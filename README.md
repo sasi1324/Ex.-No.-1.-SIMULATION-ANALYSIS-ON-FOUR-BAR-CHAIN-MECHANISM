@@ -53,6 +53,7 @@
 
 
 ## Output:
+![screenshot 2024-01-02 at 16 52 25_2da630f7](https://github.com/sasi1324/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150313315/58bb076e-ce5e-4ac6-b7bb-d9a3d26f8afb)
 
 
 ### Name:
